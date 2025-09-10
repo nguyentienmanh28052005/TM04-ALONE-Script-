@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d200b45a828438640abfe37662236b4b, type: 3}
+  m_Name: Spring
+  m_EditorClassIdentifier: 
+  tile: {fileID: 0}
+  range: {x: 5, y: 4}
+  stackable: 1
+  nameItem: 9
+  itemType: 4
+  image: {fileID: 21300000, guid: 47952c36c3865ee4da35b6a6f5581720, type: 3}
+  equipedImage: {fileID: 0}
